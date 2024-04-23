@@ -1,0 +1,12 @@
+[submodule "todo-client"]
+	path = todo-client
+	url = https://github.com/minhnguyennhatdev/todo-client.git
+[submodule "todo-server"]
+	path = todo-server
+	url = https://github.com/minhnguyennhatdev/todo-server.git
+[submodule "sso-server"]
+	path = sso-server
+	url = https://github.com/minhnguyennhatdev/sso-server.git
+[submodule "sso-client"]
+	path = sso-client
+	url = https://github.com/minhnguyennhatdev/sso-client.git
